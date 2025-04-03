@@ -1,0 +1,8 @@
+name: "Generational Home Ownership"
+navbar:
+  title: "Generational Home Ownership"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Interactive Visualizations"
+      href: visuals.html
